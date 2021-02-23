@@ -1,0 +1,41 @@
+@import "../bootstrap/bootstrap";
+
+*{
+    transition: 0.5s;
+}
+div.search-engine{
+    &>span{
+        cursor: pointer;
+        &:hover{
+            @extend .border-dark;
+        }
+        &.selected{
+            @extend .fw-bolder;
+            @extend .border-dark;
+        }
+    }
+}
+
+div.cate{
+    background-color: #f7f7f7;
+    &>span{
+        cursor: pointer;
+        &:hover{
+            @extend .border-dark;
+        }
+        &.selected{
+            @extend .fw-bolder;
+            @extend .border-dark;
+        }
+    }
+}
+
+div.content{
+    background-color: #f7f7f7;
+}
+
+div.card{
+    &:hover{
+        @extend .shadow-lg;
+    }
+}

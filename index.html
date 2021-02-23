@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" href="./css/bootstrap/bootstrap.css"> -->
+    <link rel="stylesheet" href="./css/myStyle/style.css">
+    <script src="./js/bootstrap/bootstrap.bundle.js"></script>
+    <script src="./js/jquery/jquery-3.5.1.js"></script>
+    <script src="./js/vue/vue.global.js"></script>
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <title>看 满 离</title>
+</head>
+
+<body>
+    <div class="main container shadow-lg">
+
+        <h1 class="h1 fw-bold d-flex justify-content-center align-items-center p-5">滚 去 学 习</h1>
+
+        <div class="search px-5">
+            <div class="search-engine py-2">
+                <span class="fs-6 py-1 px-1 mx-0 my-2 border-bottom border-2" v-for="engine in searchEngines"
+                    :class="{selected:engine.selected}" :id="engine.id" @click="setSearchEngine">{{engine.name}}</span>
+            </div>
+
+            <form class="my-2 py-2 input-group" :action="searchEngine.action" method="get" target="_blank">
+                <input class="form-control" type="text" :name="searchEngine.name">
+                <input class="btn btn-outline-secondary" type="submit" value="搜索">
+            </form>
+        </div>
+
+
+        <div class="cate px-5 py-3 row justify-content-evenly align-items-center">
+            <span class="col fs-6 border-2 border-bottom m-2 text-center text-nowrap" v-for="cate in cates"
+                :class="{selected:cate.selected}" :id="cate.id" @click="setContent">{{cate.name}}</span>
+        </div>
+
+
+        <div class="content px-5 pt-2 pb-5 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4" id="contents">
+            <div class="col" v-for="link in content">
+                <div class="card h-100">
+                    <div class="row g-0">
+                        <div class="col-4">
+                            <img class="w-100 h-100" :src="link.img">
+                        </div>
+                        <div class="col-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{link.name}}</h5>
+                                <p class="card-text">{{link.describe}}</p>
+                                <a :href="link.link" class="card-link" target="_blank">{{link.name}}</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <script src="./js/myScript/script.js"></script>
+</body>
+
+</html>
