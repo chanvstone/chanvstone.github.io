@@ -367,8 +367,8 @@
             "name": "魔法上网",
             "links": [
                 {
-                    "name": "CoolGay",
-                    "link": "https://linkhub.store/",
+                    "name": "LinkHub",
+                    "link": "https://linkhub.cool/",
                     "img":"./assert/pic/header.jpg",
                     "describe":"描述暂时也还没做"
                 },
@@ -399,6 +399,12 @@
                 {
                     "name": "razord - Clash Dashboard",
                     "link": "https://clash.razord.top",
+                    "img":"./assert/pic/header.jpg",
+                    "describe":"描述暂时也还没做"
+                },
+                {
+                    "name": "点这个",
+                    "link": "https://linkhub.live/auth/register?code=J15y",
                     "img":"./assert/pic/header.jpg",
                     "describe":"描述暂时也还没做"
                 }
