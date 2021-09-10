@@ -20,20 +20,6 @@
             "kw": "q",
             "name": "谷歌",
             "selected": false
-        },
-        "doge": {
-            "id": "doge",
-            "url": "https://www.dogedoge.com/results",
-            "kw": "q",
-            "name": "多吉",
-            "selected": false
-        },
-        "duck": {
-            "id": "duck",
-            "url": "https://duckduckgo.com/",
-            "kw": "q",
-            "name": "Duck",
-            "selected": false
         }
     },
     "cates": {
@@ -45,38 +31,38 @@
                 {
                     "name": "TechBench",
                     "link": "https://tb.rg-adguard.net/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "UUP Dump",
                     "link": "https://uupdump.ml/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Arch",
                     "link": "https://www.archlinux.org",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Debian",
                     "link": "https://www.debian.org",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Fedora",
                     "link": "https://getfedora.org",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "openSUSE",
                     "link": "https://www.opensuse.org",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -88,38 +74,38 @@
                 {
                     "name": "XDA-NEWS",
                     "link": "https://www.xda-developers.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "XDA-forum",
                     "link": "https://forum.xda-developers.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Paranoid Android",
                     "link": "https://paranoidandroid.co/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Pixel Experience",
                     "link": "https://download.pixelexperience.org/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Lineage OS",
                     "link": "https://lineageos.org/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "TWRP Recovery",
                     "link": "https://twrp.me/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -131,20 +117,20 @@
                 {
                     "name": "清华大学开源软件镜像站",
                     "link": "https://mirrors.tuna.tsinghua.edu.cn",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "USTC Mirror",
                     "link": "https://mirrors.ustc.edu.cn",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "华为开源镜像站",
                     "link": "https://mirrors.huaweicloud.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -156,56 +142,56 @@
                 {
                     "name": "VSCode",
                     "link": "https://code.visualstudio.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "码云",
                     "link": "https://gitee.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "CODING",
                     "link": "https://coding.net",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "GitLab",
                     "link": "https://gitlab.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Github",
                     "link": "https://github.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "W3school",
                     "link": "https://www.w3school.com.cn",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "W3Cschool",
                     "link": "https://www.w3cschool.cn",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "RUNOOB",
                     "link": "https://www.runoob.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Python Document",
                     "link": "https://docs.python.org",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -217,110 +203,110 @@
                 {
                     "name": "哔哩哔哩",
                     "link": "https://www.bilibili.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"bilibili简称B站，是中国年轻人聚集的文化社区 哔哩哔哩 (゜-゜)つロ 干杯~"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "bilibili简称B站，是中国年轻人聚集的文化社区 哔哩哔哩 (゜-゜)つロ 干杯~"
                 },
                 {
                     "name": "HACG",
                     "link": "https://hacg.me/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"重度宅的记事本，站长在看完某些动画之后就会去搜集一些周边信息，同人，或者游戏，于是自我记录保存。"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "重度宅的记事本，站长在看完某些动画之后就会去搜集一些周边信息，同人，或者游戏，于是自我记录保存。"
                 },
                 {
                     "name": "HACG-finder",
                     "link": "https://chanvstone.github.io/HACG-finder/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "爱恋动漫BT",
                     "link": "https://kisssub.org/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "动漫花园",
                     "link": "https://share.dmhy.org/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "萌番组",
                     "link": "https://bangumi.moe/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "anilist",
                     "link": "https://anilist.co/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "nyaa",
                     "link": "https://nyaa.si",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "绅士仓库",
                     "link": "https://galacg.github.io/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Danbooru",
                     "link": "https://donmai.us",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Gelbooru",
                     "link": "https://gelbooru.com",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "ExHentai",
                     "link": "https://exhentai.org",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "熊猫书签",
                     "link": "https://expanda.now.sh/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "steam",
                     "link": "https://store.steampowered.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "steamdb",
                     "link": "https://steamdb.info/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "EPIC",
                     "link": "https://www.epicgames.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Ubisoft",
                     "link": "https://www.ubisoft.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "Origin",
                     "link": "https://www.origin.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -332,32 +318,32 @@
                 {
                     "name": "saucenao",
                     "link": "https://saucenao.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "iqdb",
                     "link": "https://iqdb.org/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "ascii2d",
                     "link": "https://ascii2d.net/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "tineye",
                     "link": "https://tineye.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "WAIT: What Anime Is This?",
                     "link": "https://trace.moe/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -369,38 +355,38 @@
                 {
                     "name": "LinkHub",
                     "link": "https://linkhub.cool/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "ACL4SSR 在线订阅转换",
                     "link": "https://acl4ssr-sub.github.io/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "v2ray github",
                     "link": "https://github.com/v2ray",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "clash",
-                    "link": "https://github.com/Dreamacro/clash",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "link": "https://github.com/Dreamacro/clash/releases/tag/premium",
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "yacd - Yet Another Clash Dashboard",
                     "link": "http://yacd.haishan.me/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "razord - Clash Dashboard",
                     "link": "https://clash.razord.top",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -412,56 +398,62 @@
                 {
                     "name": "BT tracker",
                     "link": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "种子跟踪器地址"
                 },
                 {
                     "name": "Google hosts",
                     "link": "https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "兴许还有点用"
                 },
                 {
                     "name": "online photoshop",
                     "link": "https://www.photopea.com/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "在线PS"
                 },
                 {
                     "name": "webui-aria2",
                     "link": "https://ziahamza.github.io/webui-aria2/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "AriaNG",
                     "link": "http://ariang.mayswind.net/latest",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "aria2 的网页控制台"
                 },
                 {
                     "name": "speedtest",
                     "link": "https://www.speedtest.net/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "测速网",
                     "link": "https://www.speedtest.cn",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "GitHub 文件加速",
                     "link": "https://gh.api.99988866.xyz/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
                 },
                 {
                     "name": "waifu2x",
                     "link": "http://waifu2x.udp.jp/",
-                    "img":"./assert/pic/header.jpg",
-                    "describe":"描述暂时也还没做"
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "超分辨率。老婆更清晰"
+                },
+                {
+                    "name": "KinhDown（加速！永无止境）",
+                    "link": "https://kinhdown.kinh.cc/",
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "百度网盘满速下载"
                 }
             ]
         }
