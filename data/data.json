@@ -186,12 +186,6 @@
                     "link": "https://www.runoob.com",
                     "img": "./assert/pic/header.jpg",
                     "describe": "描述暂时也还没做"
-                },
-                {
-                    "name": "Python Document",
-                    "link": "https://docs.python.org",
-                    "img": "./assert/pic/header.jpg",
-                    "describe": "描述暂时也还没做"
                 }
             ]
         },
@@ -354,7 +348,7 @@
             "links": [
                 {
                     "name": "LinkHub",
-                    "link": "https://linkhub.cool/",
+                    "link": "https://linkhub.store/",
                     "img": "./assert/pic/header.jpg",
                     "describe": "描述暂时也还没做"
                 },
@@ -396,12 +390,6 @@
             "name": "零零碎碎",
             "links": [
                 {
-                    "name": "BT tracker",
-                    "link": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
-                    "img": "./assert/pic/header.jpg",
-                    "describe": "种子跟踪器地址"
-                },
-                {
                     "name": "Google hosts",
                     "link": "https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts",
                     "img": "./assert/pic/header.jpg",
@@ -412,18 +400,6 @@
                     "link": "https://www.photopea.com/",
                     "img": "./assert/pic/header.jpg",
                     "describe": "在线PS"
-                },
-                {
-                    "name": "webui-aria2",
-                    "link": "https://ziahamza.github.io/webui-aria2/",
-                    "img": "./assert/pic/header.jpg",
-                    "describe": "描述暂时也还没做"
-                },
-                {
-                    "name": "AriaNG",
-                    "link": "http://ariang.mayswind.net/latest",
-                    "img": "./assert/pic/header.jpg",
-                    "describe": "aria2 的网页控制台"
                 },
                 {
                     "name": "speedtest",
@@ -448,6 +424,37 @@
                     "link": "http://waifu2x.udp.jp/",
                     "img": "./assert/pic/header.jpg",
                     "describe": "超分辨率。老婆更清晰"
+                },
+                {
+                    "name": "Wakamai Fondue",
+                    "link": "https://wakamaifondue.com/",
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "查看变量字体详细属性"
+                }
+            ]
+        },
+        "download": {
+            "id": "download",
+            "selected": false,
+            "name": "下载工具",
+            "links": [
+                {
+                    "name": "BT tracker",
+                    "link": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "种子跟踪器地址"
+                },
+                {
+                    "name": "webui-aria2",
+                    "link": "https://ziahamza.github.io/webui-aria2/",
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "描述暂时也还没做"
+                },
+                {
+                    "name": "AriaNG",
+                    "link": "http://ariang.mayswind.net/latest",
+                    "img": "./assert/pic/header.jpg",
+                    "describe": "aria2 的网页控制台"
                 },
                 {
                     "name": "KinhDown（加速！永无止境）",
